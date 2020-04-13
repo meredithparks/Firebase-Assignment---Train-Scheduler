@@ -1,0 +1,30 @@
+  
+/*@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}*/
+body{
+    background-color:#f1f3f4;
+}
+
+.container{
+    background-color:#79bac1;
+    box-shadow: 5px 5px 3px #2a7886;
+}
+h1{
+    text-align: center;
+    color: #f1f3f4;
+}
+h3{
+    color: black;
+}
+.panel-body{
+    color:black;
+}
+
+.btn{
+    background-color:#2a7886 ;
+    border-color: #79bac1;
+    box-shadow: 5px 5px 3px #2a7886;
+}
